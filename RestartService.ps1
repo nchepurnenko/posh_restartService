@@ -1,7 +1,7 @@
-$SmtpServer = 'mail.zenith.ru'
-$To = 'nchepurnenko@zenith.ru'
-$From = 'sqlserv@zenith.ru' 
-$password = "rr89eMGWyZrr89eMGWyZ"
+$SmtpServer = 'mail.example.com'
+$To = 'example@example.com'
+$From = 'example@example.com' 
+$password = ""
 chcp 65001
 Add-Type -AssemblyName System.Windows.Forms
 [System.Windows.Forms.Application]::EnableVisualStyles()
